@@ -1,21 +1,21 @@
-banda,genero,ouvintes_mensais_global,ouvintes_sao_paulo,top_cidades_sp,ultimo_show_sp_ano,categoria_demanda
-Blackbriar,Symphonic Metal,220000,18500,Sim (#2),Nunca,Alta Demanda
-Frozen Crown,Power Metal,180000,14200,Sim (#3),Nunca,Alta Demanda
-Alice in Chains,Grunge/Doom,6500000,310000,Sim (#4),2013,Demanda Represada
-Xandria,Symphonic Metal,310000,22500,Sim (#5),2016,Demanda Represada
-Delain,Symphonic Metal,450000,36000,Sim (#3),2017,Demanda Represada
-Dragonland,Power Metal,75000,8200,Sim (#2),Nunca,Alta Demanda
-Firewind,Power/Heavy,140000,12100,Sim (#4),2012,Demanda Represada
-Diabulus in Musica,Symphonic Metal,40000,3800,Sim (#3),Nunca,Alta Demanda
-Marilyn Manson,Industrial/Gothic,4800000,215000,Sim (#5),2007,Alta Demanda
-Jorn,Hard/Heavy,280000,24000,Sim (#2),2017,Demanda Represada
-Týr,Folk/Pagan Metal,190000,15800,Sim (#3),2014,Demanda Represada
-Myrkur,Black/Folk Metal,160000,11900,Sim (#4),Nunca,Alta Demanda
-Creed,Post-Grunge,8200000,290000,Sim (#4),2012,Demanda Represada
-Heathen,Thrash Metal,65000,6900,Sim (#2),2012,Demanda Represada
-Versailles,Neoclassical/Power,95000,11200,Sim (#1),2017,Demanda Represada
-King Diamond,Heavy Metal,420000,34500,Sim (#3),2017,Demanda Represada
-Down,Sludge/Southern,580000,42000,Sim (#4),2011,Demanda Represada
-Blood Incantation,Death/Prog Metal,130000,9800,Sim (#5),Nunca,Alta Demanda
-Disturbed,Alternative/Heavy,11500000,380000,Sim (#5),2011,Demanda Represada
-Edguy,Power Metal,380000,35000,Sim (#2),2014,Demanda Represada
+band,genre,global_monthly_listeners,sp_monthly_listeners,sp_top_cities,last_sp_show_year,demand_category
+Blackbriar,Symphonic Metal,220000,18500,Yes (#2),Never,High Demand
+Frozen Crown,Power Metal,180000,14200,Yes (#3),Never,High Demand
+Alice in Chains,Grunge/Doom,6500000,310000,Yes (#4),2013,Pent-up Demand
+Xandria,Symphonic Metal,310000,22500,Yes (#5),2016,Pent-up Demand
+Delain,Symphonic Metal,450000,36000,Yes (#3),2017,Pent-up Demand
+Dragonland,Power Metal,75000,8200,Yes (#2),Never,High Demand
+Firewind,Power/Heavy,140000,12100,Yes (#4),2012,Pent-up Demand
+Diabulus in Musica,Symphonic Metal,40000,3800,Yes (#3),Never,High Demand
+Marilyn Manson,Industrial/Gothic,4800000,215000,Yes (#5),2007,High Demand
+Jorn,Hard/Heavy,280000,24000,Yes (#2),2017,Pent-up Demand
+Týr,Folk/Pagan Metal,190000,15800,Yes (#3),2014,Pent-up Demand
+Myrkur,Black/Folk Metal,160000,11900,Yes (#4),Never,High Demand
+Creed,Post-Grunge,8200000,290000,Yes (#4),2012,Pent-up Demand
+Heathen,Thrash Metal,65000,6900,Yes (#2),2012,Pent-up Demand
+Versailles,Neoclassical/Power,95000,11200,Yes (#1),2017,Pent-up Demand
+King Diamond,Heavy Metal,420000,34500,Yes (#3),2017,Pent-up Demand
+Down,Sludge/Southern,580000,42000,Yes (#4),2011,Pent-up Demand
+Blood Incantation,Death/Prog Metal,130000,9800,Yes (#5),Never,High Demand
+Disturbed,Alternative/Heavy,11500000,380000,Yes (#5),2011,Pent-up Demand
+Edguy,Power Metal,380000,35000,Yes (#2),2014,Pent-up Demand
